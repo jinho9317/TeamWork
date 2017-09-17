@@ -14,14 +14,17 @@ public class S_Team {
 		System.out.println("Engineer : 32151501 sohyun);
 	)
 	//private void Reverser()
-	//private void Supporter()
+	private void Supporter()
+        {
+            System.out.println("Supporter : 32121468 ÀÌµ¿Çü")
+        }
 	
 	public static void main(String[] args) {
 		S_Team Team = new S_Team();
 		Team.TeamLeader();
 		//TEam.Engineer();
 		//Team.Reverser();
-		//Team.Supporter();		
+		Team.Supporter();		
 	}	
 	
 }
