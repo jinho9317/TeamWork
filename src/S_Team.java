@@ -8,23 +8,20 @@ public class S_Team {
 	
 	private void TeamLeader()
 	{
-		System.out.println("Leader : 32121875 Â±Ã¨Ã‡Ã¶Ã€Ã");
+		System.out.println("Leader : 32121875 ±èÇöÀÏ");
 	}
 	private void Engineer(
 		System.out.println("Engineer : 32151501 sohyun);
 	)
 	//private void Reverser()
-	private void Supporter()
-        {
-            System.out.println("Supporter : 32121846 ÀÌµ¿Çü")
-        }
+	//private void Supporter()
 	
 	public static void main(String[] args) {
 		S_Team Team = new S_Team();
 		Team.TeamLeader();
 		//TEam.Engineer();
 		//Team.Reverser();
-		Team.Supporter();		
+		//Team.Supporter();		
 	}	
 	
 }
