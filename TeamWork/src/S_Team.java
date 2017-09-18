@@ -13,7 +13,10 @@ public class S_Team {
 	private void Engineer(
 		System.out.println("Engineer : 32151501 sohyun);
 	)
-	//private void Reverser()
+	private void Analyst()
+	{
+			System.out.println("Analyst : 32127247 JEONG Jinho");
+	}
 	private void Supporter()
         {
          System.out.println("Engineer : 32121846 Lee Dong Hyeong);
