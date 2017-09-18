@@ -26,7 +26,7 @@ public class S_Team {
 		S_Team Team = new S_Team();
 		Team.TeamLeader();
 		//TEam.Engineer();
-		//Team.Reverser();
+		Team.Analyst();
 		Team.Supporter();		
 	}	
 	
